@@ -1,0 +1,12 @@
+app: putty
+
+ingredients:
+  dist: bullseye
+  sources: 
+    - deb http://deb.debian.org/debian bullseye main contrib non-free
+  packages:
+  - libjsch-agent-proxy-java 
+  - libtrilead-putty-extension-java 
+  - pterm 
+  - putty-doc 
+  - putty-tools
