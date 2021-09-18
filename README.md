@@ -4,14 +4,14 @@
 
 1. Clone this repository and `cd` into it.
    ```shell
-   git clone https://github.com/AppImage/sagarkhandve/Putty.git
+   wget https://github.com/sagarkhandve/Putty/releases/download/v0.76/Putty_x86_64.AppImage
    cd Putty/
-   chmod +x Putty.AppImage
+   chmod +x Putty_x86_64.AppImage
    ```
 2. Run
 
    ```shell
-   ./Putty.AppImage
+   ./Putty_x86_64.AppImage
    ```
    
 ### A configuration for [pkg2appimage](https://github.com/AppImage/pkg2appimage) to build Putty in AppImage form.
