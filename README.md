@@ -1,6 +1,6 @@
 # Putty - AppImage
 
-
+![Putty](https://user-images.githubusercontent.com/90393971/133888362-15057575-ddab-437b-9df1-5e554e0adf69.png)
 
 1. Clone this repository and `cd` into it.
    ```shell
