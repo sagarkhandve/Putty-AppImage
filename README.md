@@ -1,3 +1,6 @@
+# Putty - AppImage
+
+
 
 1. Clone this repository and `cd` into it.
    ```shell
