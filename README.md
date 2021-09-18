@@ -1,6 +1,6 @@
 # Putty - AppImage
 
-![Putty](https://user-images.githubusercontent.com/90393971/133888362-15057575-ddab-437b-9df1-5e554e0adf69.png)
+![Putty](https://user-images.githubusercontent.com/90393971/133889722-de4ee9af-5d8b-4272-b75b-d367669c5af9.png)
 
 1. Clone this repository and `cd` into it.
    ```shell
@@ -13,7 +13,7 @@
    ```shell
    ./Putty.AppImage
    ```
-
+   
 ### A configuration for [pkg2appimage](https://github.com/AppImage/pkg2appimage) to build Putty in AppImage form.
 
 ## How to use it?
