@@ -22,7 +22,7 @@
 
 1. Clone this repository and `cd` into it.
     ```shell
-    git clone https://github.com/sagarkhandve/Putty.git
+    git clone https://github.com/sagarkhandve/Putty-AppImage.git
     cd Putty/
     ```
 2. Download pkg2appimage tool and make it executable.
