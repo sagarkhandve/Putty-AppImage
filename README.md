@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
+
 # Putty - AppImage
 
 ![Putty](https://user-images.githubusercontent.com/90393971/133889722-de4ee9af-5d8b-4272-b75b-d367669c5af9.png)
